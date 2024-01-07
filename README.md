@@ -45,4 +45,5 @@ Dashboard
 
 Explore the interactive dashboard created from the survey results, providing visual insights into the key metrics.
 
-https://github.com/Abhishek7574/Data_Analytics_Survey_Dashboard_PowerBI/blob/e05e8d45121e3ab3032136a8a3accb00f38ff285/Data%20Analytics%20Survey%20Dashboard.pbix
+- [Link to Dashboard](https://github.com/Abhishek7574/Data_Analytics_Survey_Dashboard_PowerBI/blob/e05e8d45121e3ab3032136a8a3accb00f38ff285/Data%20Analytics%20Survey%20Dashboard.pbix)
+
