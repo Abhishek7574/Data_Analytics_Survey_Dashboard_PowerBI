@@ -41,7 +41,20 @@ Highest Paying Job:
 Global Representation:
 
 * The dataset reflects a diverse representation with participants contributing from various countries, providing a global perspective on the industry.
-Dashboard
+  
+## Repository Organization
+
+The repository is organized as follows:
+
+- **Data Analytics Survey Dashboard.pbix:** The Power BI file containing the interactive dashboard for visualizing survey results.
+
+- **Data_Analytics_Survey.xlsx:** The Excel file containing the raw survey data used in the analysis.
+
+- **README.md:** The main README file providing an overview of the project, dataset details, and instructions.
+
+Feel free to explore the contents of each file to gain insights into the survey analysis and visualization.
+
+## Dashboard
 
 Explore the interactive dashboard created from the survey results, providing visual insights into the key metrics.
 
