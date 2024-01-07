@@ -28,20 +28,21 @@ The dataset (survey_data.xlsx) provides a comprehensive view of the survey respo
 
 Programming Language Preferences:
 
-Python emerged as the dominant programming language across all career roles, showcasing its widespread adoption in the industry.
+* Python emerged as the dominant programming language across all career roles, showcasing its widespread adoption in the industry.
 Gender Distribution:
 
-A notable 75% of participants identified as male, highlighting the need for continued efforts to promote diversity in the field.
+* A notable 75% of participants identified as male, highlighting the need for continued efforts to promote diversity in the field.
 Average Age:
 
-The surveyed professionals have an average age of approximately 27 years, indicating a relatively young workforce.
+* The surveyed professionals have an average age of approximately 27 years, indicating a relatively young workforce.
 Highest Paying Job:
 
-Data scientists occupy the highest paying roles, underlining the demand for advanced analytical skills in the industry.
+* Data scientists occupy the highest paying roles, underlining the demand for advanced analytical skills in the industry.
 Global Representation:
 
-The dataset reflects a diverse representation with participants contributing from various countries, providing a global perspective on the industry.
+* The dataset reflects a diverse representation with participants contributing from various countries, providing a global perspective on the industry.
 Dashboard
+
 Explore the interactive dashboard created from the survey results, providing visual insights into the key metrics.
 
 Link to Dashboard
