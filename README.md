@@ -11,11 +11,17 @@ This repository contains the results of an online survey conducted for professio
 The dataset (survey_data.xlsx) provides a comprehensive view of the survey responses, including various attributes of data analytics and data science professionals. The following key columns are included:
 
 **Country:** The participant's country of residence.
+
 **Salary:** Annual salary in the participant's local currency.
+
 **Gender:** Gender identity of the participant.
+
 **Age:** Age of the participant.
+
 **Work-Life Balance:** A qualitative assessment of work-life balance.
+
 **Programming Language:** Participant's preferred programming language.
+
 **Role:** Career role in the data analytics or data science field.
 
 # Key Insights
