@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the results of an online survey conducted for professionals in data analytics, data science, and related fields. The dataset, available in the survey_data.xlsx file, captures responses from 629 participants worldwide, covering aspects such as country, salary, gender, age, work-life balance, favorite programming language, and career roles.
+This repository contains the results of an online survey conducted for professionals in data analytics, data science, and related fields. The dataset, available in the Data_Analytics_Survey.xlsx file, captures responses from 629 participants worldwide, covering aspects such as country, salary, gender, age, work-life balance, favorite programming language, and career roles.
 
 # Dataset
 
