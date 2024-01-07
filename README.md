@@ -57,6 +57,11 @@ Feel free to explore the contents of each file to gain insights into the survey 
 ## Dashboard
 
 Explore the interactive dashboard created from the survey results, providing visual insights into the key metrics.
+This link of file dashboard which you can see after downloading with Power BI Desktop app
 
-- [Link to Dashboard](https://github.com/Abhishek7574/Data_Analytics_Survey_Dashboard_PowerBI/blob/e05e8d45121e3ab3032136a8a3accb00f38ff285/Data%20Analytics%20Survey%20Dashboard.pbix)
+- [Link to Dashboard](https://github.com/Abhishek7574/Data_Analytics_Survey_Dashboard_PowerBI/blob/e05e8d45121e3ab3032136a8a3accb00f38ff285/Data%20Analytics%20Survey%20Dashboard.pbix) \
+  
+  This link is to see the static version of the dashboard
+ - [Link to Dashboard (PDF)](https://github.com/Abhishek7574/Data_Analytics_Survey_Dashboard_PowerBI/blob/5d5e4c7d3ec0a6604afb4696c0f1584e643ebaa0/Data%20Analytics%20Survey%20Dashboard.pdf)
+
 
