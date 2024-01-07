@@ -47,6 +47,8 @@ Global Representation:
 The repository is organized as follows:
 
 - **Data Analytics Survey Dashboard.pbix:** The Power BI file containing the interactive dashboard for visualizing survey results.
+  
+-  **Data Analytics Survey Dashboard.pdf:** A static version of the dashboard in PDF format. Explore this file for a snapshot of the visual insights from the survey.
 
 - **Data_Analytics_Survey.xlsx:** The Excel file containing the raw survey data used in the analysis.
 
